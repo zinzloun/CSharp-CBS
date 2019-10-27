@@ -3,7 +3,7 @@ Reloaded C# Crypter Bind Shell
 Coded with VS Community 2015. How does it works?
 
 Files:<br>
- BindShell.cs: the source code of the payload (you can change a different one), compile it as DLL<br>
+ BindShell.cs: the source code of the payload (you can code what you prefer), compile it as DLL<br>
  Encoder.cs: the RC4 encoder. Compile it as Console app<br>
  Stub.cs: the executable wrapping the encrypted payload. Compile it as Console app<br><br>
  

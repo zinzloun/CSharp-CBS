@@ -1,5 +1,5 @@
 # CSharp-CBS
-### 24/07/20:the Stub.exe file is now detected by almost every AV solution
+### 24/07/20: the Stub.exe file is now detected by almost every AV solution
 
 Reloaded C# Crypter Bind Shell
 Coded with VS Community 2015. How does it works?
